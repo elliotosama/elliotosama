@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Osama Ramadan
+# 👋 Hi, I’m Osama Ramadan
 - 👀 I’m interested in Cyber Security And Web Development
-- 🌱 I’m currently learning Reverse Engineering
-- 💞️ I’m looking to collaborate on Cyber Security Projects
 - 📫 How to reach me osama.ramadan.esmail@gmail.com
